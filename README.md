@@ -193,6 +193,11 @@ b) Falência, recuperação judicial ou extrajudicial de quaisquer das partes.
 
 16.1. Os valores estabelecidos pelo *Contratado* sendo cobrado o valor referente ao valor/hora de um desenvolvedor Mobile: http://mobimais.com.br/blog/quanto-custa-um-aplicativo/
 
+16.2. Os valores estabelecidos pelo *Contratado* serão cobrados de forma mensal que será definido pelo tempo de produção da aplicação.
+
+**17 ESPECIFICIDADES**
+
+17.1. Para o contrato com a Tagarela - FIC será cobrado o valor de R$ 2000,00. R$ 50,00/h e o tempo de produção poderá ser estabelecido entre as partes.
 
 ## Versão
 
