@@ -1,8 +1,6 @@
 # CONDIÇÕES GERAIS DE UTILIZAÇÃO DO "NOME COMPLETO DO SISTEMA".
 
-> Este arquivo foi criado com extensão .md porque a exibição fica bem legal no [GitHub](https://github.com/). Será disponibilizado um link para download, caso você não possua conta. Aproveitando, que tal [criar sua conta](https://github.com/join?source=header-home) agora? \o/
-
-Essas Condições Gerais de Utilização do ("**Sistema**") ("**Condições Gerais**") regulam o contrato ("**Contrato**") estabelecido entre *MEU NOME COMPLETO*, residente na Rua A, 1, Bairro, Cep: 30000-000, Cidade de XYZ, Estado de XYZ, ("**Contratado**"), e, de outro lado, a pessoa identificada na ("**Confirmação Contratual**"), representado por *NOME COMPLETO DO CLIENTE*, residente na Rua A, 1, Bairro, Cep: 30000-000, Cidade de XYZ, Estado de XYZ ("**Cliente**").
+Essas Condições Gerais de Utilização do ("**Sistema**") ("**Condições Gerais**") regulam o contrato ("**Contrato**") estabelecido entre *LUIGI GUIDO GONTIJO BARRETO*, residente na Rua 402, 26, Setor Negrão de Lima, Cep: 74650-340, Goiânia, Goiás, ("**Contratado**"), e, de outro lado, a pessoa identificada na ("**Confirmação Contratual**"), representado por *NOME COMPLETO DO CLIENTE*, residente na Rua A, 1, Bairro, Cep: 30000-000, Cidade de XYZ, Estado de XYZ ("**Cliente**").
 
 Ao contratar o *Sistema* o *Cliente* expressamente aceita todas as disposições destas *Condições Gerais*.
 
